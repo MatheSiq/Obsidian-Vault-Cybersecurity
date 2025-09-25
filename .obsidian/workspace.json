@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "16942ae01474c9d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f698894bc440991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab1b3880f3e6499",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Cybersecurity Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1. Cybersecurity Roadmap"
+            }
+          },
+          {
+            "id": "fe0fa46b950b50fd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1.1 Kanban Course Progress.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "1.1 Kanban Course Progress"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c010ba2ea39aceeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60875b7ba3b3178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79f1efadd4a4c95b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce1f2ca8aa5de842",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55913d7074bead48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75c354c6cbe5c8d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c0b56fe0ace4f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "884fce9fe0735b39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1 Kanban Course Progress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1 Kanban Course Progress"
+            }
+          },
+          {
+            "id": "e650e27b3fc81b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Cybersecurity Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Cybersecurity Roadmap"
+            }
+          },
+          {
+            "id": "253b16cd5456e0d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a2ee4f154024ca74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Cybersecurity Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Cybersecurity Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "fe0fa46b950b50fd",
+  "lastOpenFiles": [
+    "1. Cybersecurity Roadmap.md",
+    "1.1 Kanban Course Progress.md",
+    "Fundamentos de TI e Cybersecurity/8. Escrita técnica (documentar investigações, reports de incidentes).md",
+    "2. Canvas Cybersecurity Studies.canvas",
+    "Fundamentos de TI e Cybersecurity/7. Gestão do tempo e métodos de estudo (Pomodoro, Kanban – use o Obsidian + GitHub).md",
+    "Fundamentos de TI e Cybersecurity/6. Hardening e Configuração de Servidores.md",
+    "Fundamentos de TI e Cybersecurity/5. VirtualBox Criando laboratórios com máquinas virtuais.md",
+    "Fundamentos de TI e Cybersecurity/3. Redes de Computadores.md",
+    "Fundamentos de TI e Cybersecurity/4. Infraestrutura e Interconectividade.md",
+    "Linux Administration The Complete Linux Bootcamp in 2025.md",
+    "Fundamentos de TI e Cybersecurity/2. Linux Sysadmin Build 5 Hands-On Linux Projects.md",
+    "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
+    "1.2 Study Tracker.md",
+    "Fundamentos de TI e Cybersecurity",
+    "Untitled.base",
+    "2025-09-25.md",
+    "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
+    "Método Zettelkasten",
+    "img/nano_courses_fiap_png.png",
+    "img/cursos_udemy_png.png",
+    "img"
+  ]
+}

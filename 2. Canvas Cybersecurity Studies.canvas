@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6492d4e1b2559467","x":-520,"y":-320,"width":400,"height":400,"type":"file","file":"1. Cybersecurity Roadmap.md"},
+		{"id":"d8006d2c621cc19b","x":-1000,"y":280,"width":400,"height":400,"type":"file","file":"Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md"},
+		{"id":"486c556af60435b8","x":-1000,"y":880,"width":400,"height":400,"type":"file","file":"Fundamentos de TI e Cybersecurity/2. Linux Sysadmin Build 5 Hands-On Linux Projects.md"}
+	],
+	"edges":[
+		{"id":"df9e887eb20102f8","fromNode":"6492d4e1b2559467","fromSide":"bottom","toNode":"d8006d2c621cc19b","toSide":"top"},
+		{"id":"2be3d9047fb143aa","fromNode":"d8006d2c621cc19b","fromSide":"bottom","toNode":"486c556af60435b8","toSide":"top"}
+	]
+}
