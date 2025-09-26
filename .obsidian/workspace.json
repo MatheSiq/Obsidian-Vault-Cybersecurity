@@ -8,43 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ab1b3880f3e6499",
+            "id": "fe0fa46b950b50fd",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Cybersecurity Roadmap.md",
+                "file": "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "1. Cybersecurity Roadmap"
-            }
-          },
-          {
-            "id": "fe0fa46b950b50fd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1.1 Kanban Course Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "1.1 Kanban Course Progress"
+              "title": "1. Linux Administration The Complete Linux Bootcamp in 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,18 +173,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe0fa46b950b50fd",
+  "active": "79f1efadd4a4c95b",
   "lastOpenFiles": [
+    "img/arquitetura_kernel_png.png",
+    "2. Canvas Cybersecurity Studies.canvas",
     "1. Cybersecurity Roadmap.md",
+    "doc/secao01-Linux Cheat Sheet V1.0.pdf",
+    "doc",
+    "Linux Administration The Complete Linux Bootcamp in 2025.md",
     "1.1 Kanban Course Progress.md",
     "Fundamentos de TI e Cybersecurity/8. Escrita técnica (documentar investigações, reports de incidentes).md",
-    "2. Canvas Cybersecurity Studies.canvas",
     "Fundamentos de TI e Cybersecurity/7. Gestão do tempo e métodos de estudo (Pomodoro, Kanban – use o Obsidian + GitHub).md",
     "Fundamentos de TI e Cybersecurity/6. Hardening e Configuração de Servidores.md",
     "Fundamentos de TI e Cybersecurity/5. VirtualBox Criando laboratórios com máquinas virtuais.md",
     "Fundamentos de TI e Cybersecurity/3. Redes de Computadores.md",
     "Fundamentos de TI e Cybersecurity/4. Infraestrutura e Interconectividade.md",
-    "Linux Administration The Complete Linux Bootcamp in 2025.md",
     "Fundamentos de TI e Cybersecurity/2. Linux Sysadmin Build 5 Hands-On Linux Projects.md",
     "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
     "1.2 Study Tracker.md",
