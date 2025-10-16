@@ -8,22 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe0fa46b950b50fd",
+            "id": "3a3b291aeafa46a7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
+                "file": "ctf/bandit/Level 0 - 4.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "1. Linux Administration The Complete Linux Bootcamp in 2025"
+              "title": "Level 0 - 4"
+            }
+          },
+          {
+            "id": "e5854b7f28414894",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "doc/secao01-Linux Cheat Sheet V1.0.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "secao01-Linux Cheat Sheet V1.0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,6 +46,7 @@
       {
         "id": "e60875b7ba3b3178",
         "type": "tabs",
+        "dimension": 58.18181818181818,
         "children": [
           {
             "id": "79f1efadd4a4c95b",
@@ -74,6 +86,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e02c5c6203b0c8ab",
+        "type": "tabs",
+        "dimension": 41.81818181818181,
+        "children": [
+          {
+            "id": "450385faebe8e007",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,34 +202,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "79f1efadd4a4c95b",
+  "active": "e5854b7f28414894",
   "lastOpenFiles": [
-    "img/explicacao_gui.png",
-    "img/gui_wsl_png.png",
-    "img/apt_update_png.png",
-    "img/arquitetura_kernel_png.png",
-    "2. Canvas Cybersecurity Studies.canvas",
-    "1. Cybersecurity Roadmap.md",
+    "ctf/bandit/Level 0 - 4.md",
     "doc/secao01-Linux Cheat Sheet V1.0.pdf",
-    "doc",
-    "Linux Administration The Complete Linux Bootcamp in 2025.md",
+    "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
+    "Templates/TemplateAnotaçõesCTFs.md",
+    "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
+    "Untitled.md",
+    "Templates",
+    "2. Canvas Cybersecurity Studies.canvas",
     "1.1 Kanban Course Progress.md",
-    "Fundamentos de TI e Cybersecurity/8. Escrita técnica (documentar investigações, reports de incidentes).md",
+    "1. Cybersecurity Roadmap.md",
     "Fundamentos de TI e Cybersecurity/7. Gestão do tempo e métodos de estudo (Pomodoro, Kanban – use o Obsidian + GitHub).md",
+    "Fundamentos de TI e Cybersecurity/8. Escrita técnica (documentar investigações, reports de incidentes).md",
+    "Linux Administration The Complete Linux Bootcamp in 2025.md",
+    "img/gui_wsl_png.png",
+    "img/explicacao_gui.png",
+    "img/cursos_udemy_png.png",
+    "img/arquitetura_kernel_png.png",
+    "img/apt_update_png.png",
+    "img/level0-overthewire.png",
+    "ctf/bandit/Untitled.md",
+    "ctf/bandit",
+    "ctf",
+    "doc",
     "Fundamentos de TI e Cybersecurity/6. Hardening e Configuração de Servidores.md",
     "Fundamentos de TI e Cybersecurity/5. VirtualBox Criando laboratórios com máquinas virtuais.md",
     "Fundamentos de TI e Cybersecurity/3. Redes de Computadores.md",
     "Fundamentos de TI e Cybersecurity/4. Infraestrutura e Interconectividade.md",
     "Fundamentos de TI e Cybersecurity/2. Linux Sysadmin Build 5 Hands-On Linux Projects.md",
-    "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
     "1.2 Study Tracker.md",
     "Fundamentos de TI e Cybersecurity",
     "Untitled.base",
     "2025-09-25.md",
-    "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
     "Método Zettelkasten",
     "img/nano_courses_fiap_png.png",
-    "img/cursos_udemy_png.png",
     "img"
   ]
 }
