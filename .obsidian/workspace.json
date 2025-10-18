@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a3b291aeafa46a7",
+            "id": "210a2c9a1151b909",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "e5854b7f28414894",
+            "id": "3a3b291aeafa46a7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "doc/secao01-Linux Cheat Sheet V1.0.pdf"
+                "file": "ctf/bandit/Level 0 - 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "secao01-Linux Cheat Sheet V1.0"
+              "icon": "lucide-file",
+              "title": "Level 0 - 4"
             }
           }
         ],
@@ -202,13 +204,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e5854b7f28414894",
+  "active": "3a3b291aeafa46a7",
   "lastOpenFiles": [
-    "ctf/bandit/Level 0 - 4.md",
     "doc/secao01-Linux Cheat Sheet V1.0.pdf",
-    "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
-    "Templates/TemplateAnotaçõesCTFs.md",
+    "ctf/bandit/Level 0 - 4.md",
     "Fundamentos de TI e Cybersecurity/1. Linux Administration The Complete Linux Bootcamp in 2025.md",
+    "Templates/TemplateAnotaçõesCTFs.md",
+    "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
     "Untitled.md",
     "Templates",
     "2. Canvas Cybersecurity Studies.canvas",
