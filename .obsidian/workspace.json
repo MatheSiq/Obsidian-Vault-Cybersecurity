@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Arquivo/Nota de Aula.md",
+                "file": "20_Base_de_Conhecimento/ctf/OverTheWire/bandit/Bandit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota de Aula"
+              "title": "Bandit"
             }
           }
         ],
@@ -205,10 +205,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edf9a69bdf6b772f",
+  "active": "79f1efadd4a4c95b",
   "lastOpenFiles": [
-    "10_Metas_Ativas/01 - Cortex Foundations.md",
     "99_Arquivo/Nota de Aula.md",
+    "20_Base_de_Conhecimento/ctf/OverTheWire/bandit/Bandit.md",
+    "20_Base_de_Conhecimento/ctf/OverTheWire/bandit",
+    "20_Base_de_Conhecimento/ctf/OverTheWire",
+    "20_Base_de_Conhecimento/ctf",
+    "30_Recursos/level5.1-overthewire.png",
+    "30_Recursos/level4-overthewire.png",
+    "10_Metas_Ativas/01 - Cortex Foundations.md",
     "99_Arquivo/Nota de Conceito.md",
     "00_Inbox/SecOps.md",
     "Pasted image....md",
@@ -232,9 +238,6 @@
     "1.1 Kanban Course Progress.md",
     "1. Cybersecurity Roadmap.md",
     "99_Arquivo",
-    "30_Recursos",
-    "20_Base_de_Conhecimento",
-    "10_Metas_Ativas",
     "Templates/TemplateAnotaçõesCTFs.md",
     "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
     "Fundamentos de TI e Cybersecurity/7. Gestão do tempo e métodos de estudo (Pomodoro, Kanban – use o Obsidian + GitHub).md",
@@ -249,7 +252,6 @@
     "Fundamentos de TI e Cybersecurity/6. Hardening e Configuração de Servidores.md",
     "Fundamentos de TI e Cybersecurity/5. VirtualBox Criando laboratórios com máquinas virtuais.md",
     "Fundamentos de TI e Cybersecurity/3. Redes de Computadores.md",
-    "Fundamentos de TI e Cybersecurity/4. Infraestrutura e Interconectividade.md",
     "30_Recursos/nano_courses_fiap_png.png"
   ]
 }
