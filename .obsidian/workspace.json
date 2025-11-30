@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Metas_Ativas/01 - Cortex Foundations.md",
+                "file": "10_Metas_Ativas/01 - Cortex Foundations/01 - Introduction to SecOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Cortex Foundations"
+              "title": "01 - Introduction to SecOps"
+            }
+          },
+          {
+            "id": "26542198479ab9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Metas_Ativas/01 - Cortex Foundations/3 - Network-Focused Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Network-Focused Security"
+            }
+          },
+          {
+            "id": "d11fae16f64f1c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Metas_Ativas/01 - Cortex Foundations/3 - Network-Focused Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Network-Focused Security"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +219,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79f1efadd4a4c95b",
+  "active": "26542198479ab9b3",
   "lastOpenFiles": [
+    "10_Metas_Ativas/03 - CompTIA Sec+.md",
+    "10_Metas_Ativas/01 - Cortex Foundations/2 - SOC Processes.md",
+    "10_Metas_Ativas/01 - Cortex Foundations/3 - Network-Focused Security.md",
+    "20_Base_de_Conhecimento/SecOps.md",
+    "10_Metas_Ativas/01 - Cortex Foundations/01 - Introduction to SecOps.md",
+    "10_Metas_Ativas/01 - Cortex Foundations",
     "30_Recursos/ciclo_resposta_incidente.png",
     "20_Base_de_Conhecimento/ctf/OverTheWire/bandit/Bandit.md",
     "99_Arquivo/Nota de Aula.md",
@@ -200,9 +235,7 @@
     "20_Base_de_Conhecimento/ctf",
     "30_Recursos/level5.1-overthewire.png",
     "30_Recursos/level4-overthewire.png",
-    "10_Metas_Ativas/01 - Cortex Foundations.md",
     "99_Arquivo/Nota de Conceito.md",
-    "00_Inbox/SecOps.md",
     "Pasted image....md",
     "10_Metas_Ativas/Cortex Foundations.md",
     "40_Projetos_Labs/Fluxo de desenvolvimento dos projetos.md",
@@ -223,7 +256,6 @@
     "2. Canvas Cybersecurity Studies.canvas",
     "1.1 Kanban Course Progress.md",
     "1. Cybersecurity Roadmap.md",
-    "99_Arquivo",
     "Templates/TemplateAnotaçõesCTFs.md",
     "Método Zettelkasten/Como Usar o OBSIDIAN para ESTUDAR (Método Zettelkasten).md",
     "Fundamentos de TI e Cybersecurity/7. Gestão do tempo e métodos de estudo (Pomodoro, Kanban – use o Obsidian + GitHub).md",
@@ -235,8 +267,6 @@
     "30_Recursos/arquitetura_kernel_png.png",
     "30_Recursos/level0-overthewire.png",
     "ctf/bandit/Untitled.md",
-    "Fundamentos de TI e Cybersecurity/6. Hardening e Configuração de Servidores.md",
-    "Fundamentos de TI e Cybersecurity/5. VirtualBox Criando laboratórios com máquinas virtuais.md",
     "30_Recursos/nano_courses_fiap_png.png"
   ]
 }

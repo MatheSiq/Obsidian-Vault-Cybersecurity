@@ -51,7 +51,6 @@ O curso vai descrever os processos e desafios diários de um analista SOC
 
 ## ❓ Dúvidas / A Pesquisar
 - [ ] Como devem ser desenhados esses processos? Playbooks e Runbooks
-
 # 📝 Incident Lifecycle and Response/Introduction to SecOps
 
 **Assunto:** #cortex #fundamentos  #soc 
@@ -79,10 +78,79 @@ A aula tem como objetivo ensinar sobre eventos e incidentes de segurança, tal c
 	- Atividades pós incidente: Após todos os processos descritos anteriormente terem sido realizados, é o momento de revisar tudo que ocorreu, entender o que funcionou e principalmente o que não funcionou, e quais foram os erros cometidos.
 		- *Durante a segunda guerra o exercito japonês estava tentando entender o motivo pelo qual todos os seus aviões estavam sendo abatidos. Acontece que quando um avião voltava para base, os responsáveis analisavam esses aviões e observavam quais eram os pontos com mais buraco de bala para reforça-los, quando na verdade deveriam estar reforçando aqueles pontos que não tinham buraco de bala*
 
-
 ## 🔑 Conceitos Chave
 - [[Incidente de segurança X Evento adverso]]
 
 ## ❓ Dúvidas / A Pesquisar
 - [ ] Não ficou clara a diferença de um incidente de segurança para um evento adverso, pesquisar e entender a diferença de um evento, incidente, evento de segurança, incidente de segurança, etc...
-- [ ] 
+# 📝 Cybersecurity Frameworks/Introduction to SecOps
+
+**Assunto:** #cortex #fundamentos #soc 
+
+---
+
+## 📌 Resumo Rápido
+A aula vai abordar cinco frameworks de cibersegurança, o National Institute of Standards and Technology (NIST) Cybersecurity Framework, NIST Special Publication 800-61, Federal Risk and Authorization Management Program (FedRAMP), Federal Information Systems Management Act (FISMA), e MITRE ATT&CK.
+
+## 🧠 Anotações Principais
+- Os frameworks busca auxíliar empresas no planejaento, avaliação, revisão e gerenteciamento da sua cibersegurança.
+	- NIST
+	    - Foi desenvolvido pelos Estados Unidos com foco em ajudar organizações a melhorar sua postura em relação a ciber ataques.
+	    - É baseado em padronizações, guidelines e melhores práticas para o melhor gerenciamento e redução de riscos cibernéticos. Também encoraja a comunicação entre organizações internas e investidores externos, em relação a cibersegurança.
+	    - Oferece uma metodologia escalável, aplicável para empresas de todos os setores e tamanhos, tal como possui funcionalidades embutídas que podem ser customizadas.
+	    - O NIST possui três principais componentes:
+	        - Core: Fornece um conjunto de atividades recomendadas durante o processo de implementação de cibersegurança para empresas de todos os portes.
+	        - Implementation Tiers: Fornece uma visão organizacional sobre cibersegurança e gerenciamento de riscos, ajudando nas discussões sobre objetivos, e valores a serem investidos dentro da área de ciber.
+	        - Profiles: Fornece meios de fortalecer processos já existentes, ou a criação de novos processos, focando em cibersegurança.
+    - NIST Special Publication 800-61
+	    - Esse framework também é um NIST, mas seu foco agora é na resposta a incidentes de segurança. Possui instruções detalhadas para times de resposta a incidentes, e vai ajudar na criação de planos e processos.
+			- Plan: O NIST recomenda que cada plano de resposta a incidentes possua um propósito, as prioridades bem definidas, uma organização sobre a estrutura e as pessoas, métricas sobre a eficácia do time de resposta a incidentes e uma evolução constante.
+			- Process Review: Recomenda a revisão de cada incidente, com a atividade de pós-incidente para garantir que a organização esteja cada vez mais forte e prepara para possíveis incidentes de segurança.
+	- FedRAMP
+		- É um programa governamental dos Estados Unidos, com objetivo de melhorar o TI abandonando tecnologias ultrapassadas. Além disso possui uma abordagem padronizada para avaliar seviços de nuvem que os orgãos governamentais dos EUA utilizarão, junto a um processo de autorização padrão(autorizando o fornecedor de nuvem a prestar serviço, ou vender um produto, para o respectivo orgão), junto a um guia para realizar o monitoramento contínuo de serviços e produtos em nuvem.
+		- O FedRAMP é designado para ser eficiênte e ágil, segue abaixo algumas características desse framework:
+			- Effective Cloud Security: Fornece uma estrutura para criar e gerenciar processos para uma segurança efetíva. Essa estrutura pode ser repetída para quantos processos forem necessários.
+			- Marketplace: O framework possuí uma lista de serviços em nuvem para que as agências governamentais possam colaborar entre sí.
+			- Security Baselines: O FedRAMP fornece quatro níveis mínimos de segurança obrigatórios, cada nível para um tipo de ativo diferente, que são definidos por sua importância
+				- Ativos de alta prioridade devem possuir no mínimo um conjunto de 421 controles.
+				- Ativos de prioridade moderada devem possuir no mínimo um conjunto de 325 controles.
+				- Ativos de baixa prioridade devem possuir no mínimo um conjunto de 125 controles.
+				- Serviços(SaaS) de baixo impacto  devem possuir no mínimo um conjunto de 36 controles.
+		- O FedRAMP atua em conjunto com diversas agências para atingir seus respectivos objetivos de acelerar a transição para serviços de núvem(On-Prem > Cloud), aumentar a confiança, garantir aplicação consistente das políticas de segurança e promover automação para aproximar dados em tempo real com monitoramento contínuo.
+	- FISMA
+		- É uma lei federal dos estados únidos que entrou en vigência em 2002, e ganhou sua última versão dem 2014.
+		- Implementa uma estrutura abrangente para proteger sistemas da informação utilizadas por agências governamentais dos estados únidos.
+		- A lei torna necessário que as agências desenvolvam implementem e documentem um programa de proteção a segurança da informação
+		- A lei cobre uma estrutura para conformidade das agências, definindo uma série de requisitos, requisitos:
+			- Inventário de sistemas de informação
+			- Categorização de informações e sistemas de informação por nível de risco
+			- Seleção de controles de segurança e requisitos de garantia adequados
+			- Avaliação de riscos
+			- Plano de segurança do sistema
+			- Certificação e acreditação
+			- Monitoramento contínuo
+	- MITRE ATT&CK
+		- É uma base de conhecimento repleta de táticas e técnicas(TTPs) utilizadas por atacantes. 
+		- O framework vai facilitar a visualização sobre diversos tipos de ataques por meio de uma agregação de diversos dados.
+		- Dentro do site oficial do framework, nos botões de navegação presentes na parte superior, acessando "CTI>Groups" possuímos uma relação de grupos de ataques conhecidos, e as principais técnicas utilizadas por eles. Caso a sua empresa seja do ramo X, vale a pena pesquisar por grupos de ataques que focam empresas desse ramo para observar as principais técnicas utilizadas por cada grupo, tal como softwares.
+		- Ferramentas como o Cortex utilizam o MITRE e cruza as TTPs listadas com as regras ativas no ambiente, criando insights como "Suas regras cobrem apenas 40% das TTPs listadas no MITRE ATT&CK"
+		- O framework consiste em algumas táticas, cada uma possui uma lista de técnicas utilizadas por atacantes para chegar nos seus respectivos objetos, e dentro de cada técnica presente no MITRE, são listados os seus respectivos procedimentos(TTPs = Táticas, Técnicas e Procedimentos)
+	- ISO Standards(International Organization for Standardization)
+		- Pública diversos documentos de padronização relacionados a segurança da informação, evidências digitais e gestão de resposta a incidentes.
+		- Abaixo estão alguns padrões públicados, mas existem vários:
+			- ISO/IEC 27035-1 - Princípios para gestão de incidentes
+			- ISO/IEC 27035-2 - Diretrizes para o planejamento e preparo para a resposta a incidentes
+			- ISO/IEC 27037 - Diretrizes para identificação, coleta, aquisição e preservação de evidências digitais
+			- ISO/IEC 27042 - Diretrizes para análise e interpretação de evidências digitais
+			- ISO/IEC 27043 - Processos e princípios de resposta a incidentes
+
+## 🔑 Conceitos Chave
+ISO Standards
+MITRE ATT&CK
+FISMA
+FedRAMP
+NIST Special Publication 800-61
+NIST
+
+## ❓ Dúvidas / A Pesquisar
+- [ ] N/A
