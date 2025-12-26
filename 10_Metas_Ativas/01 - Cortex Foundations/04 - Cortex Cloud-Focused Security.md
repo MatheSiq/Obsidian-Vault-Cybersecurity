@@ -83,8 +83,15 @@ Essa aula vai descrever os conceitos, riscos e requisitos relacionados a seguran
 		- E ainda atrelado a falta de visibilidade, é extremamente dificil detectar usuários não autorizados que podem estar abusando da infraestrutura para realizar mineração de criptoativos por exemplo.
 - Organizações que utilizam IaaS e PaaS em ambientes de desenvolvimento devem possuir uma arquitetura de segurança seguindo abordagens diferentes para cobrir diversos pontos. Abordagens essas como "in-line", "API-Based" e "Host-Based":
 	- In-line
+		- É uma arquitetura de implantação de recursos, ferramentas, etc... para facilitar o monitoramento e proteção da rede. Podemos usar de exemplo um firewall, que está na borda da rede e tudo paassa por ele, se ele quebrar, a rede pode quebrar ou ficar desprotegida.
 	- API-Based
+		- É uma abordagem que visa realizar auditoria e monitoramento contínuo por meio de consultas de APIs, muito utilizada por times de desenvolvimento e mais estável que outras formas de monitoramento, porém para realizar investigações de incidentes em tempo real pode não ser a melhor opção devido  a possíveis atrasos.
 	- Host-Based
+		- Um monitoramento que ocorre por meio de agentes instalados diramente no workloader, coletando telemetria e eventos em tempo real
+	- A junção dessas três abordagens na segurança em núvem é o ideal para cobrir vários "gaps", e diminuir o risco de comprometimentos. Uma arquitetura in-line com as ferramentas, uma auditoria baseada em API e agentes instalados em workloaders(docker, vms, etc...)
+- SaaS(Software as a service) é uma forma de vender software por meio de aplicações web(O Zendesk por exemplo, que é uma ferramenta de ITSM mas você acessa o serviço por meio da web apenas)
+	- Dentre os benefícios do SaaS temos a sua disponibilidade para quase todo mundo, pois é barato, costuma estar integrado com diversos SaaS(exemplo tempo o Gmail que você pode armazenar os anexos no Google Drive- Dois SaaS integrados) e além disso atende diversas necessidades como: Email, armazenamento, AWS, G-suite, O365, ferramentas de ITSM, ferramentas de gerenciamento de tarefas, etc...
+	- 
 
 ## 🔑 Conceitos Chave
 - [[Conceito A]]

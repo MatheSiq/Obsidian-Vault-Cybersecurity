@@ -184,16 +184,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "d11fae16f64f1c6a",
+  "active": "450385faebe8e007",
   "lastOpenFiles": [
-    "10_Metas_Ativas/01 - Cortex Foundations/01 - Introduction to SecOps.md",
     "10_Metas_Ativas/01 - Cortex Foundations/04 - Cortex Cloud-Focused Security.md",
+    "10_Metas_Ativas/01 - Cortex Foundations/01 - Introduction to SecOps.md",
     "10_Metas_Ativas/01 - Cortex Foundations/03 - Network-Focused Security.md",
     "10_Metas_Ativas/02 - Cortex XSIAM Foundations.md",
     "99_Arquivo/Nota de Aula.md",
