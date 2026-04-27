@@ -91,10 +91,30 @@ Essa aula vai descrever os conceitos, riscos e requisitos relacionados a seguran
 	- A junção dessas três abordagens na segurança em núvem é o ideal para cobrir vários "gaps", e diminuir o risco de comprometimentos. Uma arquitetura in-line com as ferramentas, uma auditoria baseada em API e agentes instalados em workloaders(docker, vms, etc...)
 - SaaS(Software as a service) é uma forma de vender software por meio de aplicações web(O Zendesk por exemplo, que é uma ferramenta de ITSM mas você acessa o serviço por meio da web apenas)
 	- Dentre os benefícios do SaaS temos a sua disponibilidade para quase todo mundo, pois é barato, costuma estar integrado com diversos SaaS(exemplo tempo o Gmail que você pode armazenar os anexos no Google Drive- Dois SaaS integrados) e além disso atende diversas necessidades como: Email, armazenamento, AWS, G-suite, O365, ferramentas de ITSM, ferramentas de gerenciamento de tarefas, etc...
-	- 
+	- Em relação aos riscos atrelados a SaaS, primeiramente temos a possibilidade de erros humanos gerar incidentes, por exemplo um usuário compartilhando arquivos do One Drivre ou Google Drive erroneamente, e terceiros baixando esses arquivos confidenciais. Outro erro comum pode ser relacionado ao Exchange ou Salesforce por exemplo, que armazenam estrutura de dados importantes e caso sejam expostos erroneamente, pode permitir o compartilhamento de informação, insersão de malware, etc...
+	- Normalmente os dados mais importantes de uma organização estão presentes me um SaaS, e por conta disso sua segurança se tornou prioridade.
+	- O SaaS revolucionou a forma que as empresas realizam as atividades, porém como qualquer tecnologia ele trouxe diversas formas de propagação de malwares, ataques e explorações. Devido a isso foi criado uma ferramenta para preencher essas lacunas relacionadas a SaaS, que são as ferramentas de CASB.
+- Além dos modelos PaaS, IaaS e SaaS, existe outra forma de realizar o deploy de serviços visando facilidade de implantação, escalabilidade e fácil compartilhamento de parâmetros devido a insfraestrutura estar contida no código, que é o caso dos containers(docker e kubernetes).
+	- Containers auxíliam muitos times DevOps devido a facilidade de implantar uma ferramenta nova em instantes, mas trás consigo novas formas de ataque exploração, e uma imaturidade geral na hora de protegê-los. Por conta disso, as melhores práticas para proteger esse tipo de infraestrutura está na proteção do servidor base, implantação de uma arquitetura in-line para maior proteção e observabilidade, tal como monitoramento contínuo baseado em API.
+# 📝 Threats of Cloud Security/Cortex Cloud-Focused Security
+
+**Assunto:** #cortex #fundamentos  #soc #cloud
+
+---
+
+## 📌 Resumo Rápido
+Esse curso descreve os riscos atrelados tanto a configurações e implantações on-premise e cloud.
+
+## 🧠 Anotações Principais
+- Tópico 1
+    - Detalhe importante...
+- Tópico 1
+    - Detalhe importante...
 
 ## 🔑 Conceitos Chave
+*(Listar termos novos. Se algum for muito importante, crie um link [[assim]] para fazer uma Nota de Conceito depois)*
 - [[Conceito A]]
+- [[Conceito B]]
 
 ## ❓ Dúvidas / A Pesquisar
 - [ ] O que acontece se...?
